@@ -1,0 +1,19 @@
+C:/Users/Hank Tsai/OneDrive/專題/Projects/pmc20141226/bin/Debug/pmc20141226.exe.config
+C:/Users/Hank Tsai/OneDrive/專題/Projects/pmc20141226/bin/Debug/pmc20141226.exe
+C:/Users/Hank Tsai/OneDrive/專題/Projects/pmc20141226/bin/Debug/pmc20141226.pdb
+C:/Users/Hank Tsai/OneDrive/專題/Projects/pmc20141226/obj/Debug/pmc20141226.csprojResolveAssemblyReference.cache
+C:/Users/Hank Tsai/OneDrive/專題/Projects/pmc20141226/obj/Debug/pmc20141226.Form1.resources
+C:/Users/Hank Tsai/OneDrive/專題/Projects/pmc20141226/obj/Debug/pmc20141226.Properties.Resources.resources
+C:/Users/Hank Tsai/OneDrive/專題/Projects/pmc20141226/obj/Debug/pmc20141226.csproj.GenerateResource.Cache
+C:/Users/Hank Tsai/OneDrive/專題/Projects/pmc20141226/obj/Debug/pmc20141226.exe
+C:/Users/Hank Tsai/OneDrive/專題/Projects/pmc20141226/obj/Debug/pmc20141226.pdb
+/Users/Jerry/Documents/專題/Projects/pmc20141226/bin/Debug/pmc20141226.exe.config
+/Users/Jerry/Documents/專題/Projects/pmc20141226/bin/Debug/pmc20141226.exe
+/Users/Jerry/Documents/專題/Projects/pmc20141226/bin/Debug/pmc20141226.pdb
+/Users/Jerry/Documents/專題/Projects/pmc20141226/obj/Debug/pmc20141226.csprojResolveAssemblyReference.cache
+/Users/Jerry/Documents/專題/Projects/pmc20141226/obj/Debug/pmc20141226.Form1.resources
+/Users/Jerry/Documents/專題/Projects/pmc20141226/obj/Debug/pmc20141226.Properties.Resources.resources
+/Users/Jerry/Documents/專題/Projects/pmc20141226/obj/Debug/pmc20141226.csproj.GenerateResource.cache
+/Users/Jerry/Documents/專題/Projects/pmc20141226/obj/Debug/pmc20141226.csproj.CoreCompileInputs.cache
+/Users/Jerry/Documents/專題/Projects/pmc20141226/obj/Debug/pmc20141226.exe
+/Users/Jerry/Documents/專題/Projects/pmc20141226/obj/Debug/pmc20141226.pdb
